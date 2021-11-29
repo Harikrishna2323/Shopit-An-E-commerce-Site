@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "> Complete E-commerce site built with Node.js, React, Redux, Express, MongoDB",
   "main": "server.js",
-  "engines": {
-    "npm": "6.x"
-  },
   "scripts": {
     "start": "node backend/server.js",
     "dev": "SET NODE_ENV=DEVELOPMENT& nodemon backend/server.js",
