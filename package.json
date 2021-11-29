@@ -28,13 +28,5 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.14"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Harikrishna2323/Shopit-An-E-commerce-Site.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Harikrishna2323/Shopit-An-E-commerce-Site/issues"
-  },
-  "homepage": "https://github.com/Harikrishna2323/Shopit-An-E-commerce-Site#readme"
+  }
 }
